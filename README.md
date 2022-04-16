@@ -101,9 +101,19 @@ values ('浙江巡抚奏钱塘堤决口疏', '皇上啊，不好啦！钱塘江�
 
 #### [#](http://heavy_code_industry.gitee.io/code_heavy_industry/pro002-maven/chapter06/verse02.html#_1-emp-实体类)[1] Emp 实体类
 
+```java
+public class Emp {
+
+    private Integer empId;
+    private String empName;
+    private String empPosition;
+    private String loginAccount;
+    private String loginPassword;
+```
 
 
 
+## 4、BaseDao
 
 
 

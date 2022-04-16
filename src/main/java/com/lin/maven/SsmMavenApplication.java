@@ -1,13 +1,12 @@
 package com.lin.maven;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+
+//@SpringBootApplication
 public class SsmMavenApplication {
 
-    public static void main(String[] args) {
-        SpringApplication.run(SsmMavenApplication.class, args);
-    }
+//    public static void main(String[] args) {
+//        SpringApplication.run(SsmMavenApplication.class, args);
+//    }
 
 }
